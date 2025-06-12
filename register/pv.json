@@ -1,0 +1,10 @@
+
+  "observations": [
+    "Ouverture du bureau à 8h00",
+    "Un électeur a oublié son certificat, refusé à 9h32"
+  ],
+  "signatures": {
+    "president": "signé",
+    "assesseur": "signé"
+  }
+}

@@ -1,0 +1,8 @@
+__pycache__/
+*.pem
+*.pyc
+urne.jsonl
+voted_ids.json
+*.crt
+*.key
+*.log
